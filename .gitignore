@@ -2,6 +2,13 @@
 *.log
 gemini_cli.log
 
+# 자가진단 결과 (런타임 생성, 환경별로 다름)
+gemini_jindan.txt
+
+# 백업 파일
+*.bak
+*.bak_*
+
 # 임시 파일
 *.tmp
 *.vbs

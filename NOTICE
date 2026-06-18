@@ -1,0 +1,133 @@
+================================================================
+ Gemini CLI One-Click Kit  —  NOTICE
+ Copyright 2026 SoDam AI Studio
+ Licensed under the Apache License, Version 2.0 (see the LICENSE file).
+================================================================
+
+This product ("the Kit") is an UNOFFICIAL helper/launcher that makes it
+easier for beginners to install and use Google's open-source command-line
+tool, Gemini CLI. The Kit is NOT created, endorsed, sponsored, or
+supported by Google.
+
+----------------------------------------------------------------
+1. THIRD-PARTY SOFTWARE
+----------------------------------------------------------------
+The Kit does NOT bundle or redistribute the software below. It only helps
+you download and run it from its official source. Each remains under its
+own license and copyright.
+
+  * Gemini CLI  (npm package: @google/gemini-cli)
+      Copyright Google LLC.
+      Licensed under the Apache License, Version 2.0.
+      Source: https://github.com/google-gemini/gemini-cli
+
+  * Node.js  (runtime; may be installed via winget at your choice)
+      Copyright Node.js contributors / the OpenJS Foundation.
+      Licensed under the MIT License.
+      Source: https://nodejs.org
+
+----------------------------------------------------------------
+2. TRADEMARKS
+----------------------------------------------------------------
+"Google", "Gemini", "Google AI Studio", "Gemini Code Assist", and
+"Antigravity" are trademarks or registered trademarks of Google LLC.
+"Node.js" is a trademark of the OpenJS Foundation.
+All other names may be trademarks of their respective owners.
+These names are used only to describe the origin and purpose of the
+software. Their use does NOT imply any affiliation with or endorsement
+by the trademark owners.
+
+----------------------------------------------------------------
+3. SERVICE TERMS, PRIVACY, AND DATA
+----------------------------------------------------------------
+Your use of the Gemini AI service through Gemini CLI is governed by
+Google's Terms of Service and Privacy Policy, NOT by this Kit's license.
+  * Google Terms:   https://policies.google.com/terms
+  * Gemini API Terms: https://ai.google.dev/gemini-api/terms
+On free tiers, Google may use your prompts and content to improve its
+models. DO NOT enter confidential, personal, or proprietary information
+on a free tier.
+
+----------------------------------------------------------------
+4. COMMERCIAL USE
+----------------------------------------------------------------
+The Kit itself (this launcher and its documentation) may be used,
+modified, and redistributed commercially under the Apache License 2.0.
+HOWEVER, commercial use of the Gemini AI service is governed solely by
+Google's terms and your chosen Google plan (free or paid). The authors of
+the Kit make no representation that any particular use is permitted, and
+you are solely responsible for complying with Google's terms.
+
+----------------------------------------------------------------
+5. SERVICE AVAILABILITY NOTICE (as of 2026-06-18)
+----------------------------------------------------------------
+On June 18, 2026, Google stopped serving "Login with Google" (free Gemini
+Code Assist for individuals, and AI Pro/Ultra) requests through Gemini CLI.
+Gemini CLI continues to work with a Gemini API key (free or paid) from
+Google AI Studio (https://aistudio.google.com/apikey), and with Gemini
+Code Assist Standard/Enterprise subscriptions. Google recommends the
+"Antigravity" family of products as a replacement for consumer tiers.
+This information may change; always check Google's official documentation.
+
+----------------------------------------------------------------
+6. NO WARRANTY / LIMITATION OF LIABILITY
+----------------------------------------------------------------
+The Kit is provided "AS IS", without warranty of any kind, to the maximum
+extent permitted by law (see Sections 7 and 8 of the Apache License 2.0).
+You use it at your own risk. The authors are not liable for any loss or
+damage, including (without limitation) data loss, account issues, or any
+charges incurred on a paid Google plan.
+
+================================================================
+ 한국어 (Korean)
+================================================================
+
+이 제품("키트")은 Google의 오픈소스 명령줄 도구 Gemini CLI를 초보자가
+더 쉽게 설치·사용하도록 돕는 **비공식 보조 런처**입니다. 이 키트는
+Google이 만들거나, 보증·후원·지원하지 않습니다.
+
+1. 제3자 소프트웨어
+   키트는 아래 소프트웨어를 포함(번들)하거나 재배포하지 않습니다. 공식
+   출처에서 내려받아 실행하도록 도울 뿐이며, 각 소프트웨어는 자체
+   라이선스·저작권을 따릅니다.
+     * Gemini CLI (npm: @google/gemini-cli) — Copyright Google LLC,
+       Apache License 2.0. 출처: https://github.com/google-gemini/gemini-cli
+     * Node.js (실행 기반, 사용자가 원할 때 winget으로 설치 가능) —
+       Copyright Node.js 기여자/OpenJS Foundation, MIT License.
+       출처: https://nodejs.org
+
+2. 상표
+   "Google", "Gemini", "Google AI Studio", "Gemini Code Assist",
+   "Antigravity"는 Google LLC의 상표 또는 등록상표입니다. "Node.js"는
+   OpenJS Foundation의 상표입니다. 이 이름들은 소프트웨어의 출처와 용도를
+   설명하기 위해서만 사용되며, 상표권자와의 제휴나 보증을 의미하지 않습니다.
+
+3. 서비스 약관·개인정보·데이터
+   Gemini CLI를 통한 Gemini AI 서비스 이용은 이 키트의 라이선스가 아니라
+   Google의 서비스 약관과 개인정보처리방침을 따릅니다.
+     * Google 약관: https://policies.google.com/terms
+     * Gemini API 약관: https://ai.google.dev/gemini-api/terms
+   무료 등급에서는 Google이 입력한 내용을 모델 개선에 사용할 수 있습니다.
+   **무료 등급에는 기밀·개인정보·회사 자료를 입력하지 마세요.**
+
+4. 상업적 이용
+   키트 자체(이 런처와 문서)는 Apache License 2.0에 따라 상업적으로
+   사용·수정·재배포할 수 있습니다. 다만 Gemini AI 서비스의 상업적 이용은
+   전적으로 Google의 약관과 사용자가 선택한 요금제(무료/유료)를 따릅니다.
+   키트 제작자는 특정 사용이 허용되는지 보장하지 않으며, Google 약관 준수
+   책임은 사용자에게 있습니다.
+
+5. 서비스 제공 공지 (2026-06-18 기준)
+   2026년 6월 18일부터 Google은 Gemini CLI에서 "Login with Google"(개인용
+   무료 Gemini Code Assist, AI Pro/Ultra) 요청 처리를 중단했습니다. Gemini
+   CLI는 Google AI Studio(https://aistudio.google.com/apikey)에서 발급한
+   API 키(무료/유료) 및 Code Assist Standard/Enterprise 구독으로는 계속
+   작동합니다. Google은 소비자 등급의 대체재로 "Antigravity" 제품군을
+   권고합니다. 이 정보는 변동될 수 있으니 항상 Google 공식 문서를
+   확인하세요.
+
+6. 무보증 / 책임의 한계
+   키트는 법이 허용하는 최대 범위에서 "있는 그대로(AS IS)" 제공되며 어떠한
+   보증도 하지 않습니다(Apache License 2.0 제7·8조 참조). 사용에 따른 모든
+   책임은 사용자에게 있으며, 제작자는 데이터 손실, 계정 문제, 유료 요금제
+   과금 등 어떠한 손해에 대해서도 책임지지 않습니다.
