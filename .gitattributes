@@ -1,0 +1,3 @@
+# Windows 배치 파일은 CP949+CRLF 바이트 그대로 보존 (줄바꿈/인코딩 자동 변환 금지)
+*.bat -text
+*.pdf binary
